@@ -19,5 +19,5 @@ I implement some error-detection in my code, including but not only:
 - `Wrong password`
 - `Non-existent user`
 - `Try to logout without login`
-- `Use same port with same ip`
+- `Use same port with same ip`  
 I forgot to show `repeated login` in my vedio, TAs can try my code to verify it.
